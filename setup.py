@@ -9,7 +9,7 @@ import versioneer
 config = {
     'description': 'Manipulate third party resources and format data as necessary',
     'author': 'Matt Conley',
-    'url': 'https://www.github.com/mtconley/clients.git
+    'url': 'https://www.github.com/mtconley/clients.git',
     'download_url': None, 
     'author_email': '',
     'version': '0.0.1',
